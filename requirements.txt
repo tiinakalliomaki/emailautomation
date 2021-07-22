@@ -1,16 +1,8 @@
 sentence_transformers
 scipy
-pickle
 flask
-csv
-re
-string
 numpy
 pandas
-datetime
 unidecode
 nltk
-os
-itertools
-math
 multiprocess 
